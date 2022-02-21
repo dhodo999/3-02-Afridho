@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\ContactController;
 use Illuminate\Support\Facades\Route;
+class Auth extends Illuminate\Support\Facades\Auth {}
 
 /*
 |--------------------------------------------------------------------------
